@@ -1,3 +1,3 @@
-# public repo for lsdevcloud.com
+# public repos for lsdevcloud.com
 
 ## contact: git@lsdevcloud.com || lsdevcloud@mail.ru
