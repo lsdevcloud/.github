@@ -1,5 +1,5 @@
 # LSDevCloud.com
-<h5>powered by crackhead engineering</h5>
+powered by crackhead engineering :3
 
 ## <b>Contact</b>
 
