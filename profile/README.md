@@ -1,6 +1,6 @@
-# <b>LSDevCloud.com </b>
+# LSDevCloud.com
 <h5>powered by crackhead engineering</h5>
 
 ## <b>Contact</b>
 
-### - Email: git@lsdevcloud.com
+### - Email: github@lsdevcloud.com
